@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -ffunction-sections -g -O0 -std=c99 -c -DSTM32F407VG -DSTM32F4XX -D__FPU_USED -DUSE_STDPERIPH_DRIVER -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries\CMSIS\Include -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries\CMSIS -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\src -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries\STM32F4xx_StdPeriph_Driver\inc -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries\Device\STM32F4xx\Include -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries\Device -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries\STM32F4xx_StdPeriph_Driver -ID:\Nauka\Zajecia\Programowanie STM32\Programy\Github\1 - GPIO\Libraries\Device\STM32F4xx">
+      <target file="stm32f4xx_cryp_aes.o" lastModified="14d9ae95c65">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp_aes.c" lastModified="13ab161dd5a"/>
+      </target>
+      <target file="stm32f4xx_fsmc.o" lastModified="14d9ae966a5">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c" lastModified="13ab161ddd8"/>
+      </target>
+      <target file="misc.o" lastModified="14d9ae96ba3">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c" lastModified="13ab161dd1c"/>
+      </target>
+      <target file="stm32f4xx_cryp.o" lastModified="14d9ae965f9">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp.c" lastModified="13ab161dd50"/>
+      </target>
+      <target file="stm32f4xx_cryp_des.o" lastModified="14d9ae9657c">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp_des.c" lastModified="13ab161dd60"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="14d9ae96dc6">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c" lastModified="13ab161df5a"/>
+      </target>
+      <target file="stm32f4xx_iwdg.o" lastModified="14d9ae9616f">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_iwdg.c" lastModified="13ab161de5f"/>
+      </target>
+      <target file="stm32f4xx_exti.o" lastModified="14d9ae96b36">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c" lastModified="13ab161ddbe"/>
+      </target>
+      <target file="stm32f4xx_gpio.o" lastModified="14d9ae96794">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c" lastModified="13ab161de09"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="14d9ae95d6f">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c" lastModified="13ac8aa6c00"/>
+      </target>
+      <target file="stm32f4xx_rtc.o" lastModified="14d9ae96c6f">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rtc.c" lastModified="13ab161ded2"/>
+      </target>
+      <target file="stm32f4xx_hash_sha1.o" lastModified="14d9ae95ce2">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash_sha1.c" lastModified="13ab161de30"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="14d9ae9629d">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c" lastModified="13ac89d603b"/>
+      </target>
+      <target file="stm32f4xx_dac.o" lastModified="14d9ae96036">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c" lastModified="13ab161dd80"/>
+      </target>
+      <target file="stm32f4xx_can.o" lastModified="14d9ae95e98">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_can.c" lastModified="13ab161dd29"/>
+      </target>
+      <target file="stm32f4xx_pwr.o" lastModified="14d9ae95dec">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_pwr.c" lastModified="13ab161de6e"/>
+      </target>
+      <target file="stm32f4xx_wwdg.o" lastModified="14d9ae95f20">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_wwdg.c" lastModified="13ab161dff8"/>
+      </target>
+      <target file="stm32f4xx_rng.o" lastModified="14d9ae96ac1">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c" lastModified="13ab161debb"/>
+      </target>
+      <target file="stm32f4xx_adc.o" lastModified="14d9ae96404">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_adc.c" lastModified="13ab161dd23"/>
+      </target>
+      <target file="gpio.o" lastModified="14d9ae964ff">
+         <source file="..\..\..\src\gpio.c" lastModified="14cfc80de6b"/>
+      </target>
+      <target file="stm32f4xx_flash.o" lastModified="14d9ae96820">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_flash.c" lastModified="13ab161ddcc"/>
+      </target>
+      <target file="stm32f4xx_cryp_tdes.o" lastModified="14d9ae96cdc">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_cryp_tdes.c" lastModified="13ab161dd79"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="14d9ae96094">
+         <source file="..\..\..\src\startup_stm32f4xx.c" lastModified="146e774ef22"/>
+      </target>
+      <target file="stm32f4xx_dcmi.o" lastModified="14d9ae96490">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c" lastModified="13ab161dda0"/>
+      </target>
+      <target file="stm32f4xx_dma.o" lastModified="14d9ae9691a">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c" lastModified="13ab161ddb8"/>
+      </target>
+      <target file="stm32f4xx_crc.o" lastModified="14d9ae96102">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_crc.c" lastModified="13ab161dd41"/>
+      </target>
+      <target file="stm32f4xx_sdio.o" lastModified="14d9ae95b3c">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c" lastModified="13ab161deee"/>
+      </target>
+      <target file="rcc.o" lastModified="14d9ae96712">
+         <source file="..\..\..\src\rcc.c" lastModified="14cfbea4858"/>
+      </target>
+      <target file="stm32f4xx_it.o" lastModified="14d9ae9633f">
+         <source file="..\..\..\src\stm32f4xx_it.c" lastModified="14cf09bfa79"/>
+      </target>
+      <target file="stm32f4xx_hash_md5.o" lastModified="14d9ae95fb5">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash_md5.c" lastModified="13ab161de25"/>
+      </target>
+      <target file="stm32f4xx_dbgmcu.o" lastModified="14d9ae96e34">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dbgmcu.c" lastModified="13ab161dd90"/>
+      </target>
+      <target file="stm32f4xx_i2c.o" lastModified="14d9ae96a43">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c" lastModified="13ab161de58"/>
+      </target>
+      <target file="stm32f4xx_syscfg.o" lastModified="14d9ae95aa7">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c" lastModified="13ab161df43"/>
+      </target>
+      <target file="stm32f4xx_hash.o" lastModified="14d9ae95bc9">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_hash.c" lastModified="13ab161de1e"/>
+      </target>
+      <target file="stm32f4xx_spi.o" lastModified="14d9ae969a7">
+         <source file="..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c" lastModified="13ab161df0a"/>
+      </target>
+      <target file="main.o" lastModified="14d9ae961ec">
+         <source file="..\..\..\src\main.c" lastModified="14cfc85a49c"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="14d9ae9688e">
+         <source file="..\..\..\src\system_stm32f4xx.c" lastModified="146ee711f1b"/>
+      </target>
+   </processor>
+</history>
