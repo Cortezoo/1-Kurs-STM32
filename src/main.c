@@ -71,7 +71,7 @@ int main(void)
 	  Delay(500,ms);
 	*/
 
-	  Delay(500,ms);
+	  Delay(400,ms);
 	  DisplayNumber7seg(licznik,0);
 	  licznik++;
 	  if(licznik>9)licznik=0;
